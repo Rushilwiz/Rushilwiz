@@ -1,13 +1,15 @@
 <pre>
-|￣￣￣￣￣￣￣￣￣￣￣|
+____________________
+|                  |
 |      you've      |
 |     reached      | 
 |     the end      |
 | of the internet  |
 |                  | 
-|__________________| 
-(\__/) || 
-(•ㅅ•) || 
+____________________ 
+        ||
+(\__/)  || 
+(•ㅅ•)  || 
 / 　 づ
 
 You should now turn off your computer and go do something useful with the rest of your life.
